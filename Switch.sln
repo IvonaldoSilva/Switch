@@ -15,19 +15,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - API", "4 - API", "{8988
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 -Presentation", "5 -Presentation", "{15EE1152-3C87-4557-B474-A1BBAC08162A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch.Domain", "Switch.Domain\Switch.Domain.csproj", "{4CC87C08-F5D3-48FF-88A9-52793D6EB8E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch.Domain", "Switch.Domain\Switch.Domain.csproj", "{4CC87C08-F5D3-48FF-88A9-52793D6EB8E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch.Domain.Tests", "Switch.Tests\Switch.Domain.Tests.csproj", "{37F8A1F5-1CF6-4BA5-B127-0FB474C4737B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch.Domain.Tests", "Switch.Tests\Switch.Domain.Tests.csproj", "{37F8A1F5-1CF6-4BA5-B127-0FB474C4737B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch.Application", "Switch.Application\Switch.Application.csproj", "{61FADC5A-5914-4CF5-AB26-48BF78201990}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch.Application", "Switch.Application\Switch.Application.csproj", "{61FADC5A-5914-4CF5-AB26-48BF78201990}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 CrossCutting", "2.1 CrossCutting", "{935B6EA5-735F-4C9F-B547-1B4DEF49E11C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2 Data", "2.2 Data", "{456A9109-0FFB-465E-9209-998B09CFADCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch.Infra.Data", "Switch.Infra.Data\Switch.Infra.Data.csproj", "{900CCD36-CF4E-4D65-A1CD-E68B77139CB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch.Infra.Data", "Switch.Infra.Data\Switch.Infra.Data.csproj", "{900CCD36-CF4E-4D65-A1CD-E68B77139CB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch.API", "Switch.API\Switch.API.csproj", "{CE3F21EE-4223-49D4-8905-B1226B5C2B90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch.API", "Switch.API\Switch.API.csproj", "{CE3F21EE-4223-49D4-8905-B1226B5C2B90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
